@@ -1,7 +1,9 @@
 # Silvio Luis de Siqueira Junior
 
 **Localização:** Barueri - SP - Brasil
+
 **E-mail:** silviojr.siqueira@gmail.com
+
 **Telefone:** +55 (11) 98240-4417
 
 # Sobre mim
