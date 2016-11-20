@@ -8,7 +8,7 @@
 
 # Sobre mim
 
-Desenvolvedor Front End com mais de 8 anos na área de tecnologia, sempre focado em boas práticas e utilização de novas  tecnologias. O contato com código sempre existiu mais sou formado em Design Digital. Devido as oportunidade de trabalhar com sites e aplicações web, também tive oportunidades de trabalha com design. Criando sites, e-mail marketing, landing-pages e materiais gráficos. Mesmo assim o meu foco sempre foi desenvolvimento front-end.
+Desenvolvedor Front End com mais de 8 anos na área de tecnologia, sempre focado em boas práticas e utilização de novas  tecnologias. O contato com código sempre existiu mais sou formado em Design Digital. Devido as oportunidade de trabalhar com sites e aplicações web, também tive oportunidade de trabalhar com design. Criando sites, e-mail marketing, landing-pages e materiais gráficos. Mesmo assim o meu foco sempre foi desenvolvimento front-end.
 
 Com conhecimentos em HTML, CSS, javascript (no navegador Jquery, AngularJS, NodeJS), ferramentas de automação como Gulp e NPM, banco de dados( SQL Server, MYSQL) e  linguagem de programação como PHP, .NET e C#. 
 
@@ -19,7 +19,7 @@ Sempre gostei muito de desenvolver todas as etapas do projeto, começando com a 
 * HTML/CSS e Javascript
 * Bootstrap
 * AngularJS, NodeJS e Jquery
-* Resposive Design
+* Responsive Design
 * GIT - GitHub e Bitbucket
 * Ionic e PhoneGap
 * Conhecimentos em PHP, SQL Server, MySQL, C#, .NET
