@@ -8,7 +8,7 @@
 
 # Sobre mim
 
-Desenvolvedor Front End com mais de 9 anos na área de tecnologia, sempre focado em boas práticas e utilização de novas tecnologias. O contato com código sempre existiu mais sou formado em Design Digital. Devido as oportunidade de trabalhar com sites e aplicações web, também tive oportunidade de trabalhar com design. Criando sites, e-mail marketing, landing-pages e materiais gráficos. Mesmo assim o meu foco sempre foi desenvolvimento front-end.
+Desenvolvedor Front End com mais de 9 anos na área de tecnologia, sempre focado em boas práticas e utilização de novas tecnologias. O contato com código sempre existiu, mas sou formado em Design Digital. Devido as oportunidades de trabalhar com sites e aplicações web, também tive oportunidade de trabalhar com design. Criando sites, e-mail marketing, landing-pages e materiais gráficos. Mesmo assim o meu foco sempre foi desenvolvimento front-end.
 
 Com conhecimentos em HTML, CSS, javascript (Vanilla, AngularJS, Angular 5 e NodeJS), ferramentas de automação como Gulp e NPM, banco de dados( SQL Server, MYSQL) e  linguagem de programação como PHP, .NET e C#. 
 
@@ -35,7 +35,7 @@ Sempre gostei muito de desenvolver todas as etapas do projeto, começando com a 
 # Experiências Profissionais
 
 ### Desenvolvedor Front End/UX - Vivere Brasil/Accenture - 04/2017 - Atual
-> Responsável pela desenvolvimento das novas plataformas Vivere, faço não somente front-end como sou o UX dos novos produtos. Os projetos contam com as tecnologias Angular 5, API´s REST, Graphql.   
+> Responsável pelo desenvolvimento das novas plataformas Vivere, faço não somente front-end como sou o UX dos novos produtos. Os projetos contam com as tecnologias Angular 5, API´s REST, Graphql.   
 
 ### Desenvolvedor Front End - Cota Melhor - 05/2015
 > Front End e Programador. Foco em desenvolvimento mobile e web. Utilização de varias tecnologias: HTML/CSS, Javascript (AngularJs, Nodejs e Jquery), Bootstrap, Ionic, phonegap, na programação .NET - C# e banco de dados SQL Server.
