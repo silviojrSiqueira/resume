@@ -35,7 +35,11 @@ Sempre gostei muito de desenvolver todas as etapas do projeto, começando com a 
 
 # Experiências Profissionais
 
-### Desenvolvedor Front End - Sabion Digital - 06/2019 - Atual
+### Desenvolvedor Front End - GFT Brasil - 06/2021 - Atual
+
+> Front-end. Foco em aplicações WEB utilizando principalmente Angular como framework. 
+
+### Desenvolvedor Front End - Sabion Digital - 06/2019 - 06/2021
 
 > Front-end e desenvolvedor mobile. Foco em desenvolvimento mobile, utilizando principalmente tecnologias como Ionic e Angular. Os desafios aqui vão além do mobile, tendo participado de outras frentes como o desenvolvimento full-stack de uma aplicação. Ou seja, criando back-end, front-end e também modelando banco de dados.
 
